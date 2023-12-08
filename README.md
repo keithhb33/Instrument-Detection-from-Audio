@@ -1,2 +1,2 @@
 # Instrument-Detection-from-Audio
-Uses an in-house machine-learning instrument recognition model to recognize instruments from audio files.
+Uses an in-house instrument recognition machine-learning model to recognize instruments from audio files.
